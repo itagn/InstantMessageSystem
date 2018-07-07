@@ -5,6 +5,10 @@
     desc: 本科毕业设计-基于DES加密的即时通信聊天系统（Windows系统运行）
     createdOn: 2017/3/25
 
+## 项目详细介绍
+
+[文档](http://itagn.xyz/#docs/InstantMessageSystem)
+
 ## 操作说明 
 #### 配置环境，安装Java，配置数据库MySQL
     
