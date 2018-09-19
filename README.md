@@ -7,7 +7,7 @@
 
 ## 项目详细介绍
 
-[文档](http://itagn.xyz/#docs/InstantMessageSystem)
+[文档](https://itagn.github.io/blog/#docs/InstantMessageSystem)
 
 ## 操作说明 
 #### 配置环境，安装Java，配置数据库MySQL
@@ -62,7 +62,7 @@
     img: 个性化商标
 
 ## 关于打包成window可以运行的exe文件
-这里推荐使用JavaLuanch和JAR2EXE两个软件，详细内容请看[JAVA2EXE.md](https://github.com/itagn/InstantMessageSystem/blob/master/JAVA2EXE.md)。
+这里推荐使用JavaLuanch和JAR2EXE两个软件，详细内容请看[JAVA2EXE.md](./JAVA2EXE.md)。
 
     步骤大概就是：
     1.先导出两个项目的jar包
